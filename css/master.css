@@ -5,3 +5,19 @@
 .navbar-nav {
     margin-top: 20px;
 }
+
+.navbar-default .navbar-logo,
+.navbar-default .navbar-nav > li > a {
+    color: #0a2862;
+    font-size: 15px;
+}
+
+.navbar-default .navbar-logo,
+.navbar-default .navbar-nav > li > a:hover {
+    color: #0049ff;
+}
+
+.navbar {
+    height: 90px;
+    background-color: #ffffff;
+}
