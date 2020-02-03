@@ -1,3 +1,4 @@
+
 .navbar-logo img {
     margin-top: -70px;
 }
@@ -47,9 +48,10 @@
 
 .landing-col {
     background: url('https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg');
-    background-size: 100% auto;
     margin: 0px;
     padding:0px;
+    height: 600px;
+    background-size: cover;
 }
 
 h1 {
@@ -96,4 +98,15 @@ form{
 form h3 {
     color: #031b4e;
     font-size: 30px;
+}
+
+.bg-light-grey {
+    width: 100%;
+    background-color: #f3f5f9;
+    height: 900px;
+}
+
+.bg-light-grey h4 {
+    color: #939eb5;
+    padding-top: 50px;
 }
