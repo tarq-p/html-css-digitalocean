@@ -10,6 +10,7 @@
 .navbar-default .navbar-nav > li > a {
     color: #0a2862;
     font-size: 15px;
+    font-family: sans-serif;
 }
 
 .navbar-default .navbar-logo,
@@ -27,7 +28,7 @@
     padding: 10px;
     color: #0049ff;
     background-color: white;
-    font-size: 100px;
+    font-size: 10px;
     border-color: #0081ff;
     margin-right: 40px;
     margin-top: 6px;
@@ -40,4 +41,19 @@
 .send:hover {
     background-color:#0049ff;
     color: white;
+}
+
+.landing-col {
+    background: url('https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg');
+    background-size: 100% auto;
+    height: 1000px;
+    margin:0;
+    padding:0px;
+}
+
+h1 {
+    margin-top: 250px;
+    color: white;
+    font-size: 60px;
+    font-family: sans-serif;
 }
