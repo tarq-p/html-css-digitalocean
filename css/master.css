@@ -15,9 +15,29 @@
 .navbar-default .navbar-logo,
 .navbar-default .navbar-nav > li > a:hover {
     color: #0049ff;
+
 }
 
 .navbar {
     height: 90px;
     background-color: #ffffff;
+}
+
+.send{
+    padding: 10px;
+    color: #0049ff;
+    background-color: white;
+    font-size: 100px;
+    border-color: #0081ff;
+    margin-right: 40px;
+    margin-top: 6px;
+    border-radius: 10px;
+    font-size: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.send:hover {
+    background-color:#0049ff;
+    color: white;
 }
