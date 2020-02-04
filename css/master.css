@@ -208,6 +208,11 @@ p {
     padding-bottom: 50px;
 }
 
+
+#developer {
+    padding-bottom: 100px;
+}
+
 .bg-light-grey-2 h6 {
     font-size: 15px;
     color: #4b5c84;
@@ -217,4 +222,9 @@ p {
     margin-right: auto;
     max-width: 900px;
     padding-top: 50px;
+}
+
+#business {
+    padding-top: 100px;
+    text-align: left;
 }
