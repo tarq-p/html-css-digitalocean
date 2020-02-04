@@ -136,6 +136,7 @@ form h3 {
     color: #031b4e;
     padding-top: 50px;
     font-size: 40px;
+    text-align: center;
 }
 
 
@@ -144,7 +145,13 @@ form h3 {
     padding-top: 10px;
     font-size: 20px;
     margin-bottom: 100px;
+    text-align: center;
 }
+
+ul {
+padding-right: 100px;
+}
+
 
 .feature li {
     list-style:none;
@@ -160,4 +167,18 @@ li a {
 li a:hover {
     color: #031b81;
     text-decoration: none;
+}
+
+.text-deploy {
+    background-color: red
+}
+
+h5 {
+    color: #321b4e;
+    font-size: 25px;
+}
+
+p {
+    color:#4e5fa7;
+    font-size: 15px;
 }
