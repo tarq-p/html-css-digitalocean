@@ -128,7 +128,6 @@ form h3 {
 
 .bg-light-white {
     width: 100%;
-    height: 300px;
     background-color: white;
 }
 
@@ -181,4 +180,41 @@ h5 {
 p {
     color:#4e5fa7;
     font-size: 15px;
+}
+
+.bg-light-grey-2 {
+    width: 100%;
+    background-color: #f3f5f9;
+    padding-top: 100px;
+}
+
+.bg-light-grey-2 h2 {
+    font-size: 40px;
+    color: #031b4e;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+}
+.bg-light-grey-2 h3 {
+    font-size: 20px;
+    color: #4b5c84;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+    padding-bottom: 50px;
+}
+
+.bg-light-grey-2 h6 {
+    font-size: 15px;
+    color: #4b5c84;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+    padding-top: 50px;
 }
