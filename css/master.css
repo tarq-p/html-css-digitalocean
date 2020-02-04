@@ -100,6 +100,11 @@ form{
     border-radius: 10px;
 }
 
+.btn-default:hover {
+    background-color: blue;
+    color: white;
+}
+
 form h3 {
     color: #031b4e;
     font-size: 30px;
@@ -131,4 +136,28 @@ form h3 {
     color: #031b4e;
     padding-top: 50px;
     font-size: 40px;
+}
+
+
+.bg-light-white h3 {
+    color: #4e5f83;
+    padding-top: 10px;
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+
+.feature li {
+    list-style:none;
+    font-size: 18px;
+    color: black;
+    padding-bottom: 30px;
+}
+
+li a {
+    color: #818da6;
+}
+
+li a:hover {
+    color: #031b81;
+    text-decoration: none;
 }
