@@ -119,10 +119,16 @@ form h3 {
 
     display: inline-block;
     margin-right:5px;
-
 }
 
+.bg-light-white {
+    width: 100%;
+    height: 300px;
+    background-color: white;
+}
 
-.img-responsive-2 {
-
+.bg-light-white h2 {
+    color: #031b4e;
+    padding-top: 50px;
+    font-size: 40px;
 }
