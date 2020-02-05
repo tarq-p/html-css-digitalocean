@@ -342,6 +342,7 @@ a:hover {
     background: url('https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg');
     margin: 0px;
     padding:0px;
+    width: 100%;
     height: 250px;
     background-repeat: no-repeat;
 }
