@@ -150,7 +150,7 @@ form h3 {
 }
 
 ul {
-padding-right: 100px;
+    padding-right: 100px;
 }
 
 
@@ -227,8 +227,9 @@ p {
 }
 
 #business {
-    padding-top: 90px;
+    padding-top: 50px;
     text-align: left;
+    padding-bottom: 100px;
 }
 
 #business h2 {
@@ -236,16 +237,14 @@ p {
 }
 
 .bg-blue{
-    background: url('https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg');
-    margin: 0px;
-    width: 100%;
-    padding:0px;
-    height: 600px;
-
+    background-image: url("https://www.digitalocean.com/assets/media/homepage/data-center-map-20321538.svg");
+    background-size: cover;
+    background-color: #031b4e;
+    padding-bottom: 100px;
 }
 
 .bg-blue h2 {
-    padding-top: 100px;
+    padding-top: 10px;
     font-size: 30px;
     color:#ffffff;
 }
@@ -291,4 +290,23 @@ a:hover {
 
 .grey-int h3 {
     color: #4e5f83;
+}
+
+#Founder {
+    font-size: 30px;
+    color: #717f9c;
+}
+
+.CTO {
+    font-size: 20PX;
+    color: #717f9c;
+}
+
+.story {
+    font-size: 20px;
+    list-style:none;
+}
+
+.story:hover {
+    color: #031b81;
 }
