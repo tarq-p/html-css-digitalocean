@@ -1,357 +1,369 @@
- body {
-    font-family: 'Roboto', sans-serif;
-    max-width: 100%;
-    overflow-x: hidden;
- }
+body {
+   font-family: 'Roboto', sans-serif;
+   max-width: 100%;
+   overflow-x: hidden;
+}
 
 
 .navbar-logo img {
-    margin-top: -70px;
+   margin-top: -70px;
 }
 
 .navbar-nav {
-    margin-top: 20px;
+   margin-top: 20px;
 }
 
 .navbar-default .navbar-logo,
 .navbar-default .navbar-nav > li > a {
-    color: #0a2862;
-    font-size: 15px;
-    font-family: sans-serif;
+   color: #0a2862;
+   font-size: 15px;
+   font-family: sans-serif;
 }
 
 .navbar-default .navbar-logo,
 .navbar-default .navbar-nav > li > a:hover {
-    color: #0049ff;
+   color: #0049ff;
 
 }
 
 .navbar {
-    height: 90px;
-    background-color: #ffffff;
+   height: 90px;
+   background-color: #ffffff;
 }
 
 .send{
-    padding: 10px;
-    color: #0049ff;
-    background-color: white;
-    border-color: #0081ff;
-    margin-right: 40px;
-    margin-top: 6px;
-    border-radius: 10px;
-    font-size: 20px;
-    padding-top: 2px;
-    padding-bottom: 2px;
+   padding: 10px;
+   color: #0049ff;
+   background-color: white;
+   border-color: #0081ff;
+   margin-right: 40px;
+   margin-top: 6px;
+   border-radius: 10px;
+   font-size: 20px;
+   padding-top: 2px;
+   padding-bottom: 2px;
 }
 
 .send:hover {
-    background-color:#0049ff;
-    color: white;
+   background-color:#0049ff;
+   color: white;
 }
 
 /* Fine header */
 
 
 .landing-col {
-    background: url('https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg');
-    margin: 0px;
-    padding:0px;
-    height: 500px;
-    background-repeat: no-repeat;
+   background: url('https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg');
+   margin: 0px;
+   padding:0px;
+   height: 500px;
+   background-repeat: no-repeat;
+   padding-bottom: 600px;
 }
 
 .full-widht-blue {
-    background-color: #0049ff;
+   background-color: #0049ff;
 }
 
 h1 {
-    margin-top: 200px;
-    color: white;
-    font-size: 60px;
-    font-family: sans-serif;
+   margin-top: 200px;
+   color: white;
+   font-size: 60px;
+   font-family: sans-serif;
 }
 
 .landing-col p {
-    color: white;
-    font-family: sans-serif;
-    font-size: 23px;
-    text-align: left;
-    margin-left: 115px;
+   color: white;
+   font-family: sans-serif;
+   font-size: 23px;
+   text-align: left;
+   margin-left: 115px;
 }
 
 form{
-    background-color: white;
-    margin-top: 190px;
-    padding-top: 50px;
-    margin-left: 100px;
-    width: 400px;
-    padding: 20px;
-    text-align: center;
-    border-radius: 10px;
+   background-color: white;
+   margin-top: 190px;
+   padding-top: 50px;
+   margin-left: 100px;
+   width: 400px;
+   padding: 20px;
+   text-align: center;
+   border-radius: 10px;
 }
 
 .form-group {
-    background-color: white;
+   background-color: white;
 }
 
 .btn-default {
-    color: white;
-    background-color: #0049ff;
-    font-size: 20px;
-    border-color: #0081ff;
-    border-radius: 10px;
+   color: white;
+   background-color: #0049ff;
+   font-size: 20px;
+   border-color: #0081ff;
+   border-radius: 10px;
 }
 
 .btn-default:hover {
-    background-color: blue;
-    color: white;
+   background-color: blue;
+   color: white;
 }
 
 form h3 {
-    color: #031b4e;
-    font-size: 30px;
+   color: #031b4e;
+   font-size: 30px;
 }
 
 .bg-light-grey {
-    width: 100%;
-    background-color: #f3f5f9;
+   width: 100%;
+   background-color: #f3f5f9;
 }
 
 .bg-light-grey h4 {
-    color: #969eb5;
-    padding-top: 50px;
+   color: #969eb5;
+   padding-top: 50px;
 }
 
 .row-partners img{
 
-    display: inline-block;
-    margin-right:5px;
+   display: inline-block;
+   margin-right:5px;
 }
 
 .bg-light-white {
-    width: 100%;
-    background-color: white;
+   width: 100%;
+   background-color: white;
+   padding-top: 100px;
 }
 
 .bg-light-white h2 {
-    color: #031b4e;
-    padding-top: 50px;
-    font-size: 40px;
-    text-align: center;
+   color: #031b4e;
+   padding-top: 50px;
+   font-size: 40px;
+   text-align: center;
 }
 
 
 .bg-light-white h3 {
-    color: #4e5f83;
-    padding-top: 10px;
-    font-size: 20px;
-    margin-bottom: 100px;
-    text-align: center;
+   color: #4e5f83;
+   padding-top: 10px;
+   font-size: 20px;
+   margin-bottom: 100px;
+   text-align: center;
 }
 
 ul {
-    padding-right: 100px;
+   padding-right: 100px;
 }
 
 
 .feature li {
-    list-style:none;
-    font-size: 18px;
-    color: black;
-    padding-bottom: 30px;
+   list-style:none;
+   font-size: 18px;
+   color: black;
+   padding-bottom: 30px;
 }
 
 li a {
-    color: #818da6;
+   color: #818da6;
 }
 
 li a:hover {
-    color: #031b81;
-    text-decoration: none;
+   color: #031b81;
+   text-decoration: none;
 }
 
 .text-deploy {
-    background-color: red
+   background-color: red
 }
 
 h5 {
-    color: #321b4e;
-    font-size: 25px;
+   color: #321b4e;
+   font-size: 25px;
 }
 
 p {
-    color:#4e5fa7;
-    font-size: 15px;
+   color:#4e5fa7;
+   font-size: 15px;
 }
 
 .bg-light-grey-2 {
-    width: 100%;
-    background-color: #f3f5f9;
-    padding-top: 100px;
+   width: 100%;
+   background-color: #f3f5f9;
+   padding-top: 100px;
+   padding-bottom: 200px;
 }
 
 .bg-light-grey-2 h2 {
-    font-size: 40px;
-    color: #031b4e;
-    text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 900px;
+   font-size: 40px;
+   color: #031b4e;
+   text-align: center;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 900px;
 }
 .bg-light-grey-2 h3 {
-    font-size: 20px;
-    color: #4b5c84;
-    text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 900px;
-    padding-bottom: 50px;
+   font-size: 20px;
+   color: #4b5c84;
+   text-align: center;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 900px;
+   padding-bottom: 50px;
 }
 
 
 #developer {
-    padding-bottom: 100px;
+   padding-bottom: 100px;
 }
 
 .bg-light-grey-2 h6 {
-    font-size: 15px;
-    color: #4b5c84;
-    text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 900px;
-    padding-top: 50px;
+   font-size: 15px;
+   color: #4b5c84;
+   text-align: center;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 900px;
+   padding-top: 50px
+
 }
 
 #business {
-    padding-top: 50px;
-    text-align: left;
-    padding-bottom: 100px;
+   padding-top: 50px;
+   text-align: left;
+   padding-bottom: 100px;
 }
 
 #business h2 {
-    padding-bottom: 100px;
+   padding-bottom: 100px;
+}
+
+#business a {
+    color: #1169ff;
 }
 
 .bg-blue{
-    background-image: url("https://www.digitalocean.com/assets/media/homepage/data-center-map-20321538.svg");
-    background-size: cover;
-    background-color: #031b4e;
-    padding-bottom: 100px;
+   background-image: url("https://www.digitalocean.com/assets/media/homepage/data-center-map-20321538.svg");
+   background-size: cover;
+   background-color: #031b4e;
+   padding-bottom: 100px;
 }
 
 .bg-blue h2 {
-    padding-top: 10px;
-    font-size: 30px;
-    color:#ffffff;
+   padding-top: 10px;
+   font-size: 30px;
+   color:#ffffff;
 }
 
 h3 {
-    color: red;
+   color: red;
 }
 
 .customers {
-    padding-top: 100px;
-    padding-right: 200px;
-    padding-left: 200px;
+   padding-top: 100px;
+   padding-right: 200px;
+   padding-left: 200px;
 }
 
 .color-white  {
-    color: white;
+   color: white;
 }
 
 .color-grey  {
-    color: #9fa9bc;
+   color: #9fa9bc;
 }
 
 a {
-    color: #00d5d2;
+   color: #00d5d2;
 }
 
 a:hover {
-    color:#031b81;
+   color:#031b81;
 }
 
 
 .grey-int {
-    background-color: #ffffff;
-    width: 736px;
-    height: 360px;
+   background-color: #ffffff;
+   width: 736px;
+   height: 360px;
 }
 
 .grey-int h2 {
-    font-size: 30px;
+   font-size: 30px;
 }
 
 
 
 .grey-int h3 {
-    color: #4e5f83;
+   color: #4e5f83;
 }
 
 #Founder {
-    font-size: 30px;
-    color: #717f9c;
+   font-size: 30px;
+   color: #717f9c;
 }
 
 .CTO {
-    font-size: 20PX;
-    color: #717f9c;
+   font-size: 20PX;
+   color: #717f9c;
 }
 
 .story {
-    font-size: 20px;
-    list-style:none;
+   font-size: 20px;
+   list-style:none;
 }
 
 .story:hover {
-    color: #031b81;
+   color: #031b81;
 }
 
 .btn-default-2 {
-    color: #0069ff;
-    background-color: white;
-    font-size: 20px;
-    border-color: white;
-    border-radius: 8px;
-    margin-top: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    padding-left: 40px;
-    padding-right: 40px;
+   color: #0069ff;
+   background-color: white;
+   font-size: 20px;
+   border-radius: 8px;
+   margin-top: 20px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   padding-left: 40px;
+   padding-right: 40px;
 }
 
 .btn-default-2:hover {
-    background-color: blue;
-    color: white;
+   background-color: blue;
+   color: white;
 }
 
 #get-started {
-    padding-top: 50px;
+   padding-top: 50px;
 }
 
 #get-started h2 {
-    color: white;
-    font-size: 30px;
+   color: white;
+   font-size: 30px;
 }
 
 .landing-col-2 {
-    background: url('https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg');
-    margin: 0px;
-    padding:0px;
-    width: 100%;
-    height: 250px;
-    background-repeat: no-repeat;
+   background: url('https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg');
+   margin: 0px;
+   padding:0px;
+   width: 100%;
+   height: 250px;
+   background-repeat: no-repeat;
 }
 
 footer {
-    padding-top: 20px;
-    background-color: #010e28;
+   padding-top: 20px;
+   background-color: #010e28;
 }
 
+footer li a:hover {
+    color: white;
+}
+
+
 footer h4 {
-    color: #ffffff;
+   color: #ffffff;
 }
