@@ -6,6 +6,9 @@ body {
    margin: 0 auto;
 }
 
+header {
+    width: 100%;
+}
 
 .navbar-logo img {
    margin-top: -70px;
@@ -43,7 +46,7 @@ body {
    color: #0049ff;
    background-color: white;
    border-color: #0081ff;
-   margin-top: 6px;
+   margin-top: 25px;
    border-radius: 10px;
    font-size: 20px;
    padding-top: 2px;
@@ -63,7 +66,7 @@ body {
    margin: 0px;
    padding:0px;
    height: 500px;
-   background-repeat: no-repeat;
+   background-repeat: repeat;
    padding-bottom: 600px;
    max-width: 100%;
    margin: 0 auto;
