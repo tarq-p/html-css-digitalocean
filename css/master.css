@@ -399,3 +399,11 @@ footer h4 {
 }
 
 }
+
+
+@media screen and (max-width: 600px) {
+    #img-ptnrs {
+        width: calc((100% / 12) * 6)
+        width: 100%;
+    }
+}
