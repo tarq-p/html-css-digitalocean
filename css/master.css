@@ -272,6 +272,11 @@ a {
     color: #00d5d2;
 }
 
+a:hover {
+    color:#031b81;
+}
+
+
 .grey-int {
     background-color: #ffffff;
     width: 736px;
