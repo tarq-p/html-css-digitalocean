@@ -380,7 +380,7 @@ footer h4 {
 }
 
 @media screen and (max-width: 600px) {
-    .landing-col h1, p {
+    .landing-col h1  {
         display: none;
 
     }
@@ -405,5 +405,19 @@ footer h4 {
     #img-ptnrs {
         width: calc((100% / 12) * 6)
         width: 100%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    #deploy {
+        width: calc((100% / 12) * 12)
+
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .container .api {
+        width: calc((100% / 12) * 12)
+
     }
 }
