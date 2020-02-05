@@ -337,3 +337,20 @@ a:hover {
     color: white;
     font-size: 30px;
 }
+
+.landing-col-2 {
+    background: url('https://www.digitalocean.com/assets/media/homepage/bg-home-1-d54581d7.jpg');
+    margin: 0px;
+    padding:0px;
+    height: 250px;
+    background-repeat: no-repeat;
+}
+
+footer {
+    padding-top: 20px;
+    background-color: #010e28;
+}
+
+footer h4 {
+    color: #ffffff;
+}
