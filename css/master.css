@@ -322,16 +322,7 @@ footer h4 {
             width: calc((100% / 12) * 6) width: 100%;
        }
    }
-    @media screen and (max-width: 600px) {
-        #deploy {
-            width: calc((100% / 12) * 12)
-       }
-   }
-    @media screen and (max-width: 600px) {
-        .col-xs-12.text-right, .col-xs-12.text-left {
-            text-align: left;
-       }
-   }
+
     @media screen and (max-width: 600px) {
         .container .api {
             width: calc((100% / 12) * 12)
@@ -359,16 +350,6 @@ footer h4 {
    }
     @media screen and (max-width: 600px) {
         .foot-list-4 {
-            width: calc((100% / 12) * 12);
-       }
-   }
-    @media screen and (max-width: 600px) {
-        .b-1 {
-            width: calc((100% / 12) * 6);
-       }
-   }
-    @media screen and (max-width: 600px) {
-        .b-2 {
             width: calc((100% / 12) * 12);
        }
    }
